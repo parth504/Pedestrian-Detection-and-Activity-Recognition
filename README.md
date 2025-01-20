@@ -1,1 +1,2 @@
 # Pedestrian-Detection-and-Activity-Recognition
+This repository contains the implementation of a project titled "Novel Pedestrian Detection and Suspicious Activity Recognition", which focuses on using machine learning techniques(RandomForrest) to classify pedestrian activities and detect suspicious activities(Hit,Push,Kick,Punch,Robbery,Shooting). This project has been developed as part of a 5th-semester engineering mini-project.
